@@ -18,6 +18,9 @@ In the majority of the cases, research works propose the ranking of all candidat
 
 -->The model (en_core_web_lg) is the largest English model of spaCy with size 788 MB. There are smaller models in English and some other models for other languages (English, German, French, Spanish, Portuguese, Italian, Dutch, Greek).  en_core_web_sm is a smaller version of it.
 
+## Input
+I have created 20 different text files containing user generated texts in social media(like twitter, instagram, facebook and so on).
+
 ## Output
 At the end of Semantic ranking, I have generated a list of top semantic ranked words which shows the ranking of people’s interests from generated texts in social media. In the above given example people are more interested in domains like 'corona virus', 'Navaratri Goddess' and so on. 
 
