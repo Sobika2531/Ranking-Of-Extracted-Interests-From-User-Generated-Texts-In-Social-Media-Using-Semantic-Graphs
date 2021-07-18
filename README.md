@@ -22,4 +22,6 @@ In the majority of the cases, research works propose the ranking of all candidat
 At the end of Semantic ranking, I have generated a list of top semantic ranked words which shows the ranking of people’s interests from generated texts in social media. In the above given example people are more interested in domains like 'corona virus', 'Navaratri Goddess' and so on. 
 
 ##  
+This project was made as a mini-project for the course CS6109 - Compiler Design
+
 For docs and info contact sobikasenthilnathan@gmail.com
