@@ -1,0 +1,2 @@
+# Ranking-Of-Extracted-Interests-From-User-Generated-Texts-In-Social-Media-Using-Semantic-Graphs
+A novel method for the construction and weighing of the semantic graph, which contains text segments (terms or sentences) as nodes and weighted edges that capture the semantic relatedness (i.e. relatedness in meaning) between nodes and experimental evaluation of semantic rank in keyword extraction and text summarization tasks.
