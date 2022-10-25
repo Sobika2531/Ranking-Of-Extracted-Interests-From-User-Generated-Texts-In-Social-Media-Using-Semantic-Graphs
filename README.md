@@ -26,5 +26,3 @@ At the end of Semantic ranking, I have generated a list of top semantic ranked w
 
 ##  
 This project was made as a mini-project for the course CS6109 - Compiler Design
-
-For docs and info contact sobikasenthilnathan@gmail.com
